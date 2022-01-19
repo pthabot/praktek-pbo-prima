@@ -1,0 +1,21 @@
+1. Diberikan 3 variable yang me-representasikan seorang murid:
+
+nama
+nilai
+absen 
+Buatlah algoritma/pseudocode dan implementasi sebuah kondisional yang menentukan apakah murid tersebut lulus atau tidak.
+
+Murid dinyatakan lulus jika:
+
+nilainya 70 keatas
+absennya dibawah 5 kali
+Tampilkan nama murid dan keterangan apakah murid tersebut 'lulus' atau 'tidak lulus'
+
+Algoritma
+
+	1. Input nama
+	2. Input nilai
+	3. Input absen
+	4. Cek nilai > 70  dan absen < 5
+	Jika benar tampilkan nama dan score
+	Jika tidak tampilkan maaf anda tidak lulus
